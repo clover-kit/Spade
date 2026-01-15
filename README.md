@@ -1,4 +1,4 @@
-# <img src="./public/favlogo.png" width="30" height="30" style="vertical-align: bottom" /> Spade
+# <img src= width="30" height="30" style="vertical-align: bottom" /> Spade
 
 **Create beautiful images of your code.**
 

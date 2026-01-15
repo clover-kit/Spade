@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import { Inter, JetBrains_Mono } from "next/font/google"; // Changed fonts
 import Script from "next/script"; // Import Script
+import { Analytics } from "@vercel/analytics/next";
 import "./globals.css";
 
 const inter = Inter({
@@ -35,6 +36,7 @@ export default function RootLayout({
       >
         {children}
         <Script src="https://code.iconify.design/3/3.1.0/iconify.min.js" strategy="afterInteractive" />
+        <Analytics />
       </body>
     </html>
   );
