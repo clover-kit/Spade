@@ -1,8 +1,8 @@
-# <img src="./public/favlogo.png" width="30" height="30" style="vertical-align: bottom" /> Spade
+ # Spade
 
 **Create beautiful images of your code.**
 
-Spade (formerly DevSnap) is a powerful, customizable code snippet generator built with Next.js. It allows developers to create stunning, shareable images of their code with ease, offering sophisticated styling options and instant export capabilities.
+Spade  is a powerful, customizable code snippet generator built with Next.js. It allows developers to create stunning, shareable images of their code with ease, offering sophisticated styling options and instant export capabilities.
 
 
 ## Features
